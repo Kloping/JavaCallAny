@@ -3,6 +3,6 @@
 *.h linguist-language=c++
 *.cpp linguist-language=c++
 *.dll linguist-language=DLL
-*.dll linguist-language=bin
-*.dll.a linguist-language=bin
+*.dll linguist-language=dll
+*.dll.a linguist-language=DLL
 *.e linguist-language=E
