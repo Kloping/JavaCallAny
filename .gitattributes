@@ -2,5 +2,5 @@
 *.py linguist-language=python
 *.h linguist-language=c++
 *.cpp linguist-language=c++
-*.dll linguist-language=bin
+*.dll linguist-language=dll
 *.e linguist-language=E
