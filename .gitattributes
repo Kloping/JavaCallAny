@@ -1,8 +1,8 @@
-*.xml linguist-language=pom
+*.xml linguist-language=xml
 *.py linguist-language=python
 *.h linguist-language=c++
 *.cpp linguist-language=c++
-*.dll linguist-language=DLL
-*.dll linguist-language=dll
-*.dll.a linguist-language=DLL
+*.dll linguist-language=Bin
+*.dll linguist-language=Bin
+*.dll.a linguist-language=Bin
 *.e linguist-language=E
