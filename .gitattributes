@@ -1,0 +1,7 @@
+*.java linguist-language=Java
+*.xml linguist-language=pom
+*.py linguist-language=python
+*.h linguist-language=c++
+*.cpp linguist-language=c++
+*.dll linguist-language=bin
+*.e linguist-language=E
